@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **anurag2125it@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:**  Building scalable applications with modern tech stack
-- 🌱 **I’m currently learning:** Next.js
+- 🌱 **I’m currently learning:** Next.js and React Native app development
 - 👯 **I’m looking to collaborate on:** Open Source Projects & Innovative Web Apps
 - 💬 **Ask me about:** Collaboration, Tech Support, Build Sclable web applications
 - 📫 **How to reach me:** anurag2125it@gmail.com
